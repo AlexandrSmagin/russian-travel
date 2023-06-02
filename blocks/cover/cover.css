@@ -1,0 +1,8 @@
+.cover{
+    max-width: 1184px;
+    margin: 0 auto;
+}
+
+.cover:hover{
+    opacity: 0.3;
+}
