@@ -8,10 +8,13 @@
     margin: 0 0 32px;
 }
 
-@media (min-width: 321px) and (max-width: 761px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .lead__title {
-        max-width: 106px;
+        width: 288px;
         margin-left: 8px;
         margin-right: 8px;
+        font-size: 40px;
+        line-height: 44px;
+        margin-top: 48px;
     }
 }

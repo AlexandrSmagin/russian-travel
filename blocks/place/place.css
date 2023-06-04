@@ -5,4 +5,29 @@
     grid-template-columns: 460px 484px;
     row-gap: 48px;
     column-gap: 40px;
+
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .place {
+        grid-template-columns: 100%;
+        margin: 0 0 25px;
+        row-gap: 32px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .place {
+        grid-template-columns: 340px 352px;
+        margin: 0 0 73px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+    .place {
+        grid-template-columns: 440px 456px;
+        margin: 0 0 73px;
+    }
+}
+
