@@ -15,3 +15,10 @@
         margin: 34px 16px 64px 16px;
     }
 }
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .intro__list{
+        max-width: 720px;
+        margin: 0px 24px 88px;
+    }
+}

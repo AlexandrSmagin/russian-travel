@@ -3,7 +3,7 @@
     text-decoration: none;
     background-size: cover;
     max-width: 1184px;
-    height: 740px;
+    min-height: 740px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -26,7 +26,7 @@
 }
 
 .cover__background:hover::before {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
