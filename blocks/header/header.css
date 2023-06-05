@@ -4,6 +4,7 @@
     padding: 28px 48px 56px;
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
