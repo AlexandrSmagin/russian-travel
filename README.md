@@ -12,3 +12,7 @@ HTML, СSS, БЭМ Nested, Flexbox, Grid, адаптивная вёрстка с
 
 Создать форму обратной связи
 Реализация возможости смены языка страницы
+
+Ссылка на проект:
+
+https://alexandrsmagin.github.io/russian-travel/
